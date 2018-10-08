@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "1012949428282",
+    "firebase_url": "https://smarthomeautomation-6eea8.firebaseio.com",
+    "project_id": "smarthomeautomation-6eea8",
+    "storage_bucket": "smarthomeautomation-6eea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012949428282:android:7f643be3a95138a4",
+        "android_client_info": {
+          "package_name": "com.example.cccosmo.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012949428282-5sd4asb32hlaijrnalj4vij0videlc8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cccosmo.login",
+            "certificate_hash": "bcf0b02698ab100d234550d148a6c51cb246f05e"
+          }
+        },
+        {
+          "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfA9WiOJeJEcinEDcnV1OvnBk6DoFsXdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012949428282:android:f367061226e15606",
+        "android_client_info": {
+          "package_name": "com.example.cccosmo.loginapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfA9WiOJeJEcinEDcnV1OvnBk6DoFsXdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012949428282:android:0bf77683ac0d4952",
+        "android_client_info": {
+          "package_name": "com.example.cccosmo.posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012949428282-v15joqe3dnaq8kqspqovb0mnv3jr1au5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cccosmo.posts",
+            "certificate_hash": "bcf0b02698ab100d234550d148a6c51cb246f05e"
+          }
+        },
+        {
+          "client_id": "1012949428282-98beukckot02ge385kk4ht6k7gsv0drr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cccosmo.posts",
+            "certificate_hash": "3d1552e6116ab6085ccf8d2945a1ca8bd2221d61"
+          }
+        },
+        {
+          "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfA9WiOJeJEcinEDcnV1OvnBk6DoFsXdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012949428282:android:3a8eb2aedb9b4041",
+        "android_client_info": {
+          "package_name": "com.example.cccosmo.smarthomeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012949428282-tv69jtn08ikn819npt92duov1aeh8u4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cccosmo.smarthomeautomation",
+            "certificate_hash": "d653d12a984b1fb8f62f3f9d332b2d58d806be8e"
+          }
+        },
+        {
+          "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfA9WiOJeJEcinEDcnV1OvnBk6DoFsXdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012949428282:android:ac9b98ac99c3b5d6",
+        "android_client_info": {
+          "package_name": "com.example.cccosmo.smarthomeautomation1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012949428282-pkobu79re21gvkphi5lhpkgbdjtuv8qc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cccosmo.smarthomeautomation1",
+            "certificate_hash": "d653d12a984b1fb8f62f3f9d332b2d58d806be8e"
+          }
+        },
+        {
+          "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfA9WiOJeJEcinEDcnV1OvnBk6DoFsXdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012949428282-5g17vp7e32m94mdmblo5en3grvobef5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

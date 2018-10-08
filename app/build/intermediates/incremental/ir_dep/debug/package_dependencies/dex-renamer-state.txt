@@ -1,0 +1,4 @@
+#Thu Oct 04 17:24:32 CAT 2018
+base.0=C\:\\Users\\Mxolisi Ngwenya\\Desktop\\Posts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
