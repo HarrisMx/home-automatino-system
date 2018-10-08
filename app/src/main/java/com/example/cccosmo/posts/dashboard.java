@@ -21,7 +21,7 @@ public class dashboard extends AppCompatActivity {
         gyser = findViewById ( R.id.gyser );
         garage = findViewById ( R.id.garage );
         alarms = findViewById ( R.id.alarms );
-
+ 
         light.setOnClickListener ( new View.OnClickListener ( ) {
             @Override
             public void onClick(View view) {
